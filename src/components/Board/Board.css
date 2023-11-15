@@ -21,7 +21,7 @@
   background-color: #ffffff;
 }
 .header2 {
-  height: 93vh;
+  height: auto;
   width: 100wh;
   background-color: #f4f5f8;
   display: flex;
